@@ -9,3 +9,7 @@
 -Web Standards & W3C: Browser Wars, Web standards, 1994 standardized web,2013 workis done onweb standards, w3.org.
 -Web Servers: shared hosting vs dedicated hosting, web stack, each serverhas its own dedicated stack, LAMP most popular. Cold fusion, make sure that whatever you use gsupports your stuff.
 ## Front End Technology
+UI technology, clientside and server sid, HTML AND Javascript,mockups, accesability, Images and Icon Assets.
+HTML language ofthe web: very simple and essential, standard, 3.0 release created a lot of problems, 4.0 stabilized the languageand became the recognized language, xhtml,xhtml 2.0 structural language only, 2009 xhtml was disbanded, html5 backwards compatable and more user friendly and easy to learn.
+Structure HTML: Tags, syntax,elements and basic structure. Open and closing tag->head tag->
+CSS: Selector and declarartion, property:value,mdular design.
