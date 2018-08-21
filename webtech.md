@@ -13,3 +13,8 @@ UI technology, clientside and server sid, HTML AND Javascript,mockups, accesabil
 HTML language ofthe web: very simple and essential, standard, 3.0 release created a lot of problems, 4.0 stabilized the languageand became the recognized language, xhtml,xhtml 2.0 structural language only, 2009 xhtml was disbanded, html5 backwards compatable and more user friendly and easy to learn.
 Structure HTML: Tags, syntax,elements and basic structure. Open and closing tag->head tag->
 CSS: Selector and declarartion, property:value,mdular design.
+Java Script: develope 1995 by netscape, nothing to do with Java, interactive elements, in the browser or client side.
+Common Image Types:JPEG,PNG,GIF,SVG, File size and quality aways a concern, JPEG not recomended to save files they are compressed everytime they are save. PNG losslesscompresion format, larger file size, not totally backwards compatible, SVG: any size or any color best of all the file types, most mdern browsers support.
+API: SET OF INSTRUCTIONS AND STANDARDS, leverage the larger applications that allows the web to grow, compelling content and really powerfull features. 
+HTML 5 API: intergration of the application capabilities into HTML itself, WHATWG, Media API, drag and drop API, app cache API,Geolocation API, very important to developing complex sites.
+Web Fonts: @font-face technique, end user license agreements, EOT, WOFF, 
