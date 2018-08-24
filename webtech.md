@@ -1,4 +1,4 @@
-#Introductions
+# Introductions
 - the Web vs Internet: the Interne refers to a massive network of computers while the Web refersto a way of transmitting data via various protocols. Alsothe different types of servers, various transmission protocols etc.
 -Client/Server: searchterm->DNS Server->WebServer->backto user-Java script also executed.
 -DNS: site name->translates to ip address->
@@ -18,3 +18,11 @@ Common Image Types:JPEG,PNG,GIF,SVG, File size and quality aways a concern, JPEG
 API: SET OF INSTRUCTIONS AND STANDARDS, leverage the larger applications that allows the web to grow, compelling content and really powerfull features. 
 HTML 5 API: intergration of the application capabilities into HTML itself, WHATWG, Media API, drag and drop API, app cache API,Geolocation API, very important to developing complex sites.
 Web Fonts: @font-face technique, end user license agreements, EOT, WOFF, 
+ ### Back-End Technology
+ 8. Server side scripting or CGI (common gateway interfaces)
+ 6.Client side scripting can better controlled with Java Scripting.
+ 7. php 3.0 (hypertext preprocessor) pairing with apache etc.
+ 5. PHP code invisible.
+ 1. PHP is on almostallhosting plans 
+ 1. Large pool of developers to work with
+ 1.PHP is easy to learn and has lotsofresources todraw from
