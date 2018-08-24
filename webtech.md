@@ -19,10 +19,41 @@ API: SET OF INSTRUCTIONS AND STANDARDS, leverage the larger applications that al
 HTML 5 API: intergration of the application capabilities into HTML itself, WHATWG, Media API, drag and drop API, app cache API,Geolocation API, very important to developing complex sites.
 Web Fonts: @font-face technique, end user license agreements, EOT, WOFF, 
  ### Back-End Technology
- 8. Server side scripting or CGI (common gateway interfaces)
+ 8. Server side scripting or CGI (common gateway interfaces).
  6.Client side scripting can better controlled with Java Scripting.
  7. php 3.0 (hypertext preprocessor) pairing with apache etc.
  5. PHP code invisible.
- 1. PHP is on almostallhosting plans 
- 1. Large pool of developers to work with
- 1.PHP is easy to learn and has lotsofresources todraw from
+ 1. PHP is on almostallhosting plans.
+ 1. Large pool of developers to work with.
+ 1.PHP is easy to learn and has lotsofresources todraw from.
+ 1. JSP code is used for almost anything and ported to almost any server environment.
+
+2. Make sure you choose the proper Java platform.
+ 2. .NET: Visual Basics.
+ 2. Often used for large sacle, enterprise szed sites.
+ 2. Can only be hosted on windows server so it might be limited.
+ 
+ #coldfusion
+ - Uses mark up language like HTML.
+ - Central administration makes many tasks easier.
+ - require less code than other languages.
+ - Harder to find hosts and more expensive than other choices. 
+ - Due to more hosting prices havee dropped.
+ #Python
+ - Powerful develpment language.
+ - variety of libraries makes it easier to build sites andd web- based applications.
+ - Use to create large sites or applications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
