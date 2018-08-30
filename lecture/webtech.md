@@ -46,7 +46,13 @@ Web Fonts: @font-face technique, end user license agreements, EOT, WOFF,
  - Use to create large sites or applications 
  - Ruby on rails exploded simple syntax and powerful capabilities.
  
-  
+ 1. Dealind with Data
+ - Stored locally on client or simplyin text files called cookis.
+ - Key value pairs
+ - Json (Java Script Oblect Notation)
+ - Database.
+ - Scripting used to displayinfo like aspreadsheet.
+ -Relational and Non- relational.
  -
  
  
