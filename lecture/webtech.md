@@ -45,7 +45,8 @@ Web Fonts: @font-face technique, end user license agreements, EOT, WOFF,
  - variety of libraries makes it easier to build sites andd web- based applications.
  - Use to create large sites or applications 
  - Ruby on rails exploded simple syntax and powerful capabilities.
- -
+ 
+  
  -
  
  
