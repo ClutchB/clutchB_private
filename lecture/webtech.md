@@ -1,4 +1,4 @@
-# Introductions
+# Introductions (Week 1)
 - the Web vs Internet: the Interne refers to a massive network of computers while the Web refersto a way of transmitting data via various protocols. Alsothe different types of servers, various transmission protocols etc.
 -Client/Server: searchterm->DNS Server->WebServer->backto user-Java script also executed.
 -DNS: site name->translates to ip address->
@@ -8,7 +8,7 @@
 -Browsers: Browser->Internal Engine->Rendering Engine->Networking->Data Storage->Java Script Interpreter.
 -Web Standards & W3C: Browser Wars, Web standards, 1994 standardized web,2013 workis done onweb standards, w3.org.
 -Web Servers: shared hosting vs dedicated hosting, web stack, each serverhas its own dedicated stack, LAMP most popular. Cold fusion, make sure that whatever you use gsupports your stuff.
-## Front End Technology
+## Front End Technology (Wek 1)
 UI technology, clientside and server sid, HTML AND Javascript,mockups, accesability, Images and Icon Assets.
 HTML language ofthe web: very simple and essential, standard, 3.0 release created a lot of problems, 4.0 stabilized the languageand became the recognized language, xhtml,xhtml 2.0 structural language only, 2009 xhtml was disbanded, html5 backwards compatable and more user friendly and easy to learn.
 Structure HTML: Tags, syntax,elements and basic structure. Open and closing tag->head tag->
@@ -18,7 +18,7 @@ Common Image Types:JPEG,PNG,GIF,SVG, File size and quality aways a concern, JPEG
 API: SET OF INSTRUCTIONS AND STANDARDS, leverage the larger applications that allows the web to grow, compelling content and really powerfull features. 
 HTML 5 API: intergration of the application capabilities into HTML itself, WHATWG, Media API, drag and drop API, app cache API,Geolocation API, very important to developing complex sites.
 Web Fonts: @font-face technique, end user license agreements, EOT, WOFF, 
- ### Back-End Technology
+ ### Back-End Technology (Week 2)
  8. Server side scripting or CGI (common gateway interfaces).
  6.Client side scripting can better controlled with Java Scripting.
  7. php 3.0 (hypertext preprocessor) pairing with apache etc.
@@ -39,11 +39,14 @@ Web Fonts: @font-face technique, end user license agreements, EOT, WOFF,
  - require less code than other languages.
  - Harder to find hosts and more expensive than other choices. 
  - Due to more hosting prices havee dropped.
- #Python
+  
+  #Python
  - Powerful develpment language.
  - variety of libraries makes it easier to build sites andd web- based applications.
  - Use to create large sites or applications 
- 
+ - Ruby on rails exploded simple syntax and powerful capabilities.
+ -
+ -
  
  
  
